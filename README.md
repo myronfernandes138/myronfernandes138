@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 1 : Create GitHub account and SignIn 2 : Start a Project = Create a repository 3 : Start Eclipse 4 : Goto Perspective - Git Repositories and click on Add Git Repo
-5 : Create a project in Eclipse 6 : Do a right click on Project - Team - Share - Add to git repo 7 : Commit and Push the project to the repo 8 : Commit and Push every change to the repo
+5 : Create a project in Eclipse 6 : Do a right click on Project - Team - Share - Add to git repo 7 : Commit and Push the project to the repo 8 : Commit and Push every change to the repo 9 click on gitrepo click on branch-newbranch now step 6
